@@ -1,8 +1,4 @@
 # List of stylesheet languages
-[![GitHub issues](https://img.shields.io/github/issues/AnanthaRajuC/List-of-stylesheet-languages.svg)](https://github.com/AnanthaRajuC/List-of-stylesheet-languages/issues)
-[![GitHub forks](https://img.shields.io/github/forks/AnanthaRajuC/List-of-stylesheet-languages.svg)](https://github.com/AnanthaRajuC/List-of-stylesheet-languages/network)
-[![GitHub stars](https://img.shields.io/github/stars/AnanthaRajuC/List-of-stylesheet-languages.svg)](https://github.com/AnanthaRajuC/List-of-stylesheet-languages/stargazers)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/AnanthaRajuC/List-of-stylesheet-languages.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
 
 A style sheet language, or style language, is a computer language that expresses the presentation of structured documents. 
 
