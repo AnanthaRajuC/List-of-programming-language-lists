@@ -6,9 +6,9 @@
 
 List of programming language lists by type.
 
-- <a href="https://github.com/AnanthaRajuC/Avionics-programming-languages" target="_blank" >Avionics programming languages</a>
-- <a href="https://github.com/AnanthaRajuC/Experimental-programming-languages" target="_blank" >Experimental programming languages</a>
-- <a href="https://github.com/AnanthaRajuC/Academic-programming-languages" target="_blank" Academic Programming Languages</a>
+- <a href="https://github.com/AnanthaRajuC/Avionics-programming-languages" target="_blank">Avionics programming languages</a>
+- <a href="https://github.com/AnanthaRajuC/Experimental-programming-languages" target="_blank">Experimental programming languages</a>
+- <a href="https://github.com/AnanthaRajuC/Academic-programming-languages" target="_blank"> Academic Programming Languages</a>
 
 # Contributing
 
