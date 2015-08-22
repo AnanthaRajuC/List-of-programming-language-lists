@@ -28,3 +28,9 @@ The following is a list of formats for web feeds for web syndication.
 - <a href="http://technical.openmobilealliance.org/Technical/technical-information/material-from-affiliates/syncml" target="_blank" >SyncML (Synchronization Markup Language)</a>
 - <a href="http://microformats.org/wiki/xoxo" target="_blank" >XOXO (eXtensible Open XHTML Outlines)</a>
 - <a href="https://github.com/pubsubhubbub" target="_blank" >PubSubHubbub</a>
+
+# Specialized markup languages
+
+- EventRSS
+- <a href="http://www.georss.org/" target="_blank" >GeoRSS</a>
+- <a href="http://www.rssboard.org/media-rss" target="_blank" >Media RSS/a>
