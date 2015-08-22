@@ -1,4 +1,4 @@
-# List of programming language lists (by type)
+# List of programming language lists
 [this is still a work in progress, more being added daily]
 
 [![GitHub issues](https://img.shields.io/github/issues/AnanthaRajuC/List-of-programming-languages-by-type.svg)](https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/issues)
