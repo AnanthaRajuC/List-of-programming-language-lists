@@ -34,3 +34,15 @@ The following is a list of formats for web feeds for web syndication.
 - EventRSS
 - <a href="http://www.georss.org/" target="_blank" >GeoRSS</a>
 - <a href="http://www.rssboard.org/media-rss" target="_blank" >Media RSS/a>
+
+# Historical
+
+- EventRSS
+- <a href="http://www.w3.org/TR/NOTE-CDFsubmit.html" target="_blank" >Channel Definition Format (CDF)</a>
+- Marimba
+- <a href="http://www.textuality.com/mcf/MCF-tutorial.html" target="_blank" >Meta Content Framework (MCF)</a>
+- <a href="https://iptc.org/standards/newsml-g2/" target="_blank" >NewsML 1</a>
+- Pointcast
+- <a href="https://iptc.org/standards/sportsml-g2/" target="_blank" >SportsML</a>
+
+---
