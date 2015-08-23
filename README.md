@@ -8,17 +8,22 @@
 
 List of programming language lists by type.
 
-- <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Artificial%20Intelligence.md" target="_blank">Academic Programming Languages</a>
-- <a href="https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/blob/master/Academic%20Programming%20Languages.md" target="_blank">Artificial Intelligence Programming Languages</a>
-- <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Audio%20Programming%20Languages.md" target="_blank">Audio Programming Languages</a>
-- <a href="https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/blob/master/Avionics%20Programming%20Languages.md" target="_blank">Avionics programming languages</a>
-- <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Chinese%20programming%20languages.md" target="_blank">Chinese programming languages</a>
-- <a href="https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/blob/master/Experimental%20programming%20languages.md" target="_blank">Experimental programming languages</a>
-- Markup Languages
-  - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Content%20Syndication.md" target="_blank">Content Syndication</a>
-  - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Markup%20Language%20(General%20Purpose).md" target="_blank">General Purpose</a>
-- <a href="https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/blob/master/Stylesheet%20Languages.md" target="_blank">Stylesheet languages</a>
-- <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Symbols%20based%20programming%20languages.md" target="_blank">Symbols based programming languages</a>
+- A
+  - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Artificial%20Intelligence.md" target="_blank">Academic Programming Languages</a>
+  - <a href="https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/blob/master/Academic%20Programming%20Languages.md" target="_blank">Artificial Intelligence Programming Languages</a>
+  - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Audio%20Programming%20Languages.md" target="_blank">Audio Programming Languages</a>
+  - <a href="https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/blob/master/Avionics%20Programming%20Languages.md" target="_blank">Avionics programming languages</a>
+- C
+  - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Chinese%20programming%20languages.md" target="_blank">Chinese programming languages</a>
+- E
+  - <a href="https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/blob/master/Experimental%20programming%20languages.md" target="_blank">Experimental programming languages</a>
+- M
+  - Markup Languages
+    - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Content%20Syndication.md" target="_blank">Content Syndication</a>
+    - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Markup%20Language%20(General%20Purpose).md" target="_blank">General Purpose</a>
+- S
+  - <a href="https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/blob/master/Stylesheet%20Languages.md" target="_blank">Stylesheet languages</a>
+  - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Symbols%20based%20programming%20languages.md" target="_blank">Symbols based programming languages</a>
 
 # Contributing
 
