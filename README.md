@@ -17,6 +17,7 @@ List of programming language lists by type.
   - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Chinese%20programming%20languages.md" target="_blank">Chinese programming languages</a>
 - E
   - <a href="https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/blob/master/Experimental%20programming%20languages.md" target="_blank">Experimental programming languages</a>
+  - <a href="https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/blob/master/Experimental%20programming%20languages.md" target="_blank">Esoteric programming languages</a>
 - M
   - Markup Languages
     - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Content%20Syndication.md" target="_blank">Content Syndication</a>
