@@ -24,6 +24,8 @@ List of programming language lists by type.
     - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Markup%20Language%20(General%20Purpose).md" target="_blank">General Purpose</a>
 - N
   - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Non-English-based%20programming%20languages.md" target="_blank">Non-English-based programming languages</a>
+- Q
+  - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Query%20language.md" target="_blank">Query languages</a>
 - S
   - <a href="https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/blob/master/Stylesheet%20Languages.md" target="_blank">Stylesheet languages</a>
   - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Symbols%20based%20programming%20languages.md" target="_blank">Symbols based programming languages</a>
