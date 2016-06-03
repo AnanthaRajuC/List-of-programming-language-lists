@@ -12,3 +12,4 @@ Dennis Ritchie invented the C programming language. Broadly speaking, C-family l
 - <a href="https://en.wikipedia.org/wiki/Perl" target="_blank" >Perl</a>
 - <a href="https://en.wikipedia.org/wiki/C--" target="_blank" >C--</a>
 - <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" >C# (pronounced as see sharp)</a>
+- <a href="https://en.wikipedia.org/wiki/Not_Quite_C" target="_blank" >Not Quite C (NQC)</a>
