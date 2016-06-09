@@ -17,3 +17,4 @@ Dennis Ritchie invented the C programming language. Broadly speaking, C-family l
 - <a href="https://en.wikipedia.org/wiki/Chapel_(programming_language)" target="_blank" >Chapel</a>
 - <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank" >Go</a>
 - <a href="https://en.wikipedia.org/wiki/Seed7" target="_blank" >Seed7</a>
+- <a href="https://en.wikipedia.org/wiki/Handel-C" target="_blank" >Handel-C</a>
