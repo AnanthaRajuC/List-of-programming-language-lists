@@ -22,3 +22,4 @@ Dennis Ritchie invented the C programming language. Broadly speaking, C-family l
 - <a href="https://en.wikipedia.org/wiki/Ch_(computer_programming)" target="_blank" >Ch</a>
 - <a href="https://en.wikipedia.org/wiki/AWK" target="_blank" >AWK</a>
 - <a href="https://en.wikipedia.org/wiki/ApeScript" target="_blank" >ApeScript</a>
+- <a href="https://en.wikipedia.org/wiki/AMPL" target="_blank" >AMPL</a>
