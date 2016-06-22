@@ -30,3 +30,4 @@ Dennis Ritchie invented the C programming language. Broadly speaking, C-family l
 - <a href="https://en.wikipedia.org/wiki/Telescript_(programming_language)" target="_blank" >Telescript</a>
 - <a href="https://en.wikipedia.org/wiki/PHP" target="_blank" >PHP</a>
 - <a href="https://en.wikipedia.org/wiki/S-Lang_(programming_library)" target="_blank" >S-Lang</a>
+- <a href="https://en.wikipedia.org/wiki/Linden_Scripting_Language" target="_blank" >Linden Scripting Language (LSL)</a>
