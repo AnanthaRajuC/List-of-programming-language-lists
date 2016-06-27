@@ -34,3 +34,4 @@ Dennis Ritchie invented the C programming language. Broadly speaking, C-family l
 - <a href="https://en.wikipedia.org/wiki/BitC" target="_blank" >BitC</a>
 - <a href="https://en.wikipedia.org/wiki/PROMAL" target="_blank" >PROMAL (PROgrammer's Microapplication Language)</a>
 - <a href="https://en.wikipedia.org/wiki/Cyclone_(programming_language)" target="_blank" >Cyclone</a>
+- <a href="https://en.wikipedia.org/wiki/SAC_programming_language" target="_blank" >SAC (Single Assignment C)</a>
