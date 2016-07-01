@@ -38,3 +38,4 @@ Dennis Ritchie invented the C programming language. Broadly speaking, C-family l
 - <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)" target="_blank" >Swift</a>
 - <a href="https://en.wikipedia.org/wiki/Agora_(programming_language)" target="_blank" >Agora</a>
 - <a href="https://en.wikipedia.org/wiki/Newsqueak" target="_blank" >Newsqueak</a>
+- <a href="https://en.wikipedia.org/wiki/Split-C" target="_blank" >Split-C</a>
