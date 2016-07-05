@@ -4,4 +4,6 @@ An esoteric programming language (sometimes shortened to esolang) is a programmi
 - B
   - <a href="https://en.wikipedia.org/wiki/Befunge" target="_blank" >Befunge</a>
   - <a href="https://en.wikipedia.org/wiki/Binary_lambda_calculus" target="_blank" >Binary lambda calculus (BLC)</a>
+- T
+  - <a href="https://en.wikipedia.org/wiki/Esoteric_programming_language" target="_blank" >Turing tarpit</a>
  
