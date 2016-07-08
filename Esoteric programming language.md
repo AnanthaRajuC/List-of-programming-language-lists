@@ -6,6 +6,8 @@ An esoteric programming language (sometimes shortened to esolang) is a programmi
   - <a href="https://en.wikipedia.org/wiki/Binary_lambda_calculus" target="_blank" >Binary lambda calculus (BLC)</a>
 - I
   - <a href="https://en.wikipedia.org/wiki/INTERCAL" target="_blank" >Compiler Language With No Pronounceable Acronym, abbreviated INTERCAL</a>
+- J
+  - <a href="https://en.wikipedia.org/wiki/JSFuck" target="_blank" >JSFuck</a>
 - L
   - <a href="https://en.wikipedia.org/wiki/LOLCODE" target="_blank" >LOLCODE</a>
  
