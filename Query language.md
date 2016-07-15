@@ -7,3 +7,4 @@ Query languages are computer languages used to make queries in databases and inf
 - <a href="https://en.wikipedia.org/wiki/Java_Persistence_Query_Language" target="_blank" >Java Persistence Query Language (JPQL)</a>
 - <a href="https://en.wikipedia.org/wiki/Embedded_SQL" target="_blank" >Embedded SQL</a>
 - <a href="https://en.wikipedia.org/wiki/Access_query_language" target="_blank" >Access query language</a>
+- <a href="https://en.wikipedia.org/wiki/Facebook_Query_Language" target="_blank" >Facebook Query Language (FQL)</a>
