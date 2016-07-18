@@ -10,3 +10,4 @@ Query languages are computer languages used to make queries in databases and inf
 - <a href="https://en.wikipedia.org/wiki/Facebook_Query_Language" target="_blank" >Facebook Query Language (FQL)</a>
 - <a href="https://en.wikipedia.org/wiki/Cypher_Query_Language" target="_blank" >Cypher Query Language</a>
 - <a href="https://en.wikipedia.org/wiki/HTSQL" target="_blank" >Hyper Text Structured Query Language (HTSQL)</a>
+- <a href="https://en.wikipedia.org/wiki/Object_Query_Language" target="_blank" >Object Query Language (OQL)</a>
