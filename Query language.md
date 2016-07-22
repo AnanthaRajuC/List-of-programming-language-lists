@@ -14,3 +14,4 @@ Query languages are computer languages used to make queries in databases and inf
 - <a href="https://en.wikipedia.org/wiki/Yahoo!_Query_Language" target="_blank" >Yahoo! Query Language (YQL)</a>
 - <a href="https://en.wikipedia.org/wiki/EJB_QL" target="_blank" >EJB QL</a>
 - <a href="https://en.wikipedia.org/wiki/Versa_(query_language)" target="_blank" >Versa</a>
+- <a href="https://en.wikipedia.org/wiki/WinFS#OPath" target="_blank" >OPath</a>
