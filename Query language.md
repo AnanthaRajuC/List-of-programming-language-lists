@@ -17,3 +17,4 @@ Query languages are computer languages used to make queries in databases and inf
 - <a href="https://en.wikipedia.org/wiki/WinFS#OPath" target="_blank" >OPath</a>
 - <a href="https://en.wikipedia.org/wiki/Molecular_Query_Language" target="_blank" >Molecular Query Language (MQL)</a>
 - <a href="https://en.wikipedia.org/wiki/Language_Integrated_Query" target="_blank" >Language Integrated Query (LINQ)</a>
+- <a href="https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol" target="_blank" >Lightweight Directory Access Protocol (LDAP)</a>
