@@ -23,3 +23,4 @@ Query languages are computer languages used to make queries in databases and inf
 - <a href="https://en.wikipedia.org/wiki/ISBL" target="_blank" >ISBL (Information Systems Base Language)</a>
 - <a href="https://en.wikipedia.org/wiki/MultiDimensional_eXpressions" target="_blank" >Multidimensional Expressions (MDX)</a>
 - <a href="https://en.wikipedia.org/wiki/Couchbase_Server" target="_blank" >Couchbase Server (N1QL)</a>
+- <a href="https://en.wikipedia.org/wiki/Object_Constraint_Language" target="_blank" >Object Constraint Language (OCL)</a>
