@@ -27,3 +27,4 @@ Query languages are computer languages used to make queries in databases and inf
 - <a href="https://en.wikipedia.org/wiki/Data_Mining_Extensions" target="_blank" >Data Mining Extensions (DMX)</a>
 - <a href="https://en.wikipedia.org/wiki/D_(data_language_specification)" target="_blank" >D (data language specification)</a>
 - <a href="https://en.wikipedia.org/wiki/Datalog" target="_blank" >Datalog</a>
+- <a href="https://en.wikipedia.org/wiki/QUEL_query_languages" target="_blank" >QUEL</a>
