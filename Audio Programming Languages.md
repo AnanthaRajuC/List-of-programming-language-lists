@@ -4,6 +4,7 @@ list of audio programming languages including languages optimized for sound prod
 synthesis.
 
 - <a href="http://abcnotation.com/" >ABC notation</a>
+- <a href="https://github.com/alda-lang/alda" target="_blank">Alda</a>
 - <a href="http://chuck.cs.princeton.edu/" target="_blank" >ChucK</a>
 - <a href="https://en.wikipedia.org/wiki/Real-time_Cmix" target="_blank" >Real-Time Cmix (RTcmix)</a>
 - <a href="https://en.wikipedia.org/wiki/CMusic" target="_blank" >CMusic</a>
@@ -24,6 +25,7 @@ synthesis.
 - <a href="http://saol.net/" target="_blank" >Structured Audio Orchestra Language (SAOL)</a>
 - <a href="http://supercollider.github.io/" target="_blank" >SuperCollider</a>
 - <a href="http://www.synthedit.com/" target="_blank" >SynthEdit</a>
+- <a href="https://github.com/sofakid/Skoarcery" target="_blank">Skoar<a/>
 - <a href="http://www.vvvv.org/" target="_blank" >vvvv</a>
 
 ---
