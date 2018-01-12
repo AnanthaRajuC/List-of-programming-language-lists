@@ -1,6 +1,17 @@
 # Esoteric programming language
 An esoteric programming language (sometimes shortened to esolang) is a programming language designed to test the boundaries of computer programming language design, as a proof of concept, as software art, as a hacking interface to another language (particularly functional programming or procedural programming languages), or as a joke.
 
+- A
+  - <a href="https://esolangs.org/wiki/AAAAAAAAAAAAAA!!!!">AAAAAAAAAAAAAA!!!!</a>
+  - <a href="https://esolangs.org/wiki/Argh!">Aargh!</a>
+  - <a href="https://esolangs.org/wiki/ABC">ABC</a>
+  - <a href="https://esolangs.org/wiki/ABCDXYZ">ABCDXYZ</a>
+  - <a href="https://esolangs.org/wiki/ABCR">ABCR</a>
+  - <a href="https://esolangs.org/wiki/ABCs">ABCs</a>
+  - <a href="https://esolangs.org/wiki/ACIDIC">ACIDIC</a>
+  - <a href="https://esolangs.org/wiki/A_colon_semicolon">A:;</a>
+  - <a href="https://esolangs.org/wiki/ACRONYM">ACRONYM</a>
+  
 - B
   - <a href="https://en.wikipedia.org/wiki/Befunge" target="_blank" >Befunge</a>
   - <a href="https://en.wikipedia.org/wiki/Brainfuck" target="_blank" >Brainfuck</a>
