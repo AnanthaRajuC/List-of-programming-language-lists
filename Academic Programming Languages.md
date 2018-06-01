@@ -8,6 +8,7 @@ Programming languages influential in computer science and programming language t
 - C
   - <a href="http://pll.cpsc.ucalgary.ca/charity1/www/home.html" target="_blank" >Charity (programming language)</a>
   - <a href="http://www.pmg.lcs.mit.edu/CLU.html" target="_blank" >CLU (programming language)</a>
+  - <a href="https://cuneiform-lang.org" target="_blank" >Cuneiform (programming language)</a>
   - <a href="http://www-ps.informatik.uni-kiel.de/currywiki/" target="_blank" >Curry (programming language)</a>
 - F
   - <a href="https://en.wikipedia.org/wiki/FP_(programming_language)" target="_blank" >FP (programming language)</a>
