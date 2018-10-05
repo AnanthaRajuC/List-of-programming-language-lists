@@ -5,6 +5,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/AnanthaRajuC/List-of-programming-languages-by-type.svg)](https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/network)
 [![GitHub stars](https://img.shields.io/github/stars/AnanthaRajuC/List-of-programming-languages-by-type.svg)](https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/stargazers)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/AnanthaRajuC/List-of-programming-languages-by-type.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
+[![GitHub license](https://img.shields.io/github/license/AnanthaRajuCprojects/List-of-programming-language-lists.svg)](https://github.com/AnanthaRajuCprojects/List-of-programming-language-lists)
+
 
 List of programming language lists by type.
 
