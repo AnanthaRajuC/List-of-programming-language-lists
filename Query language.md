@@ -31,3 +31,4 @@ Query languages are computer languages used to make queries in databases and inf
 - <a href="https://en.wikipedia.org/wiki/Smiles_arbitrary_target_specification" target="_blank" >SMiles ARbitrary Target Specification (SMARTS)</a>
 - <a href="https://en.wikipedia.org/wiki/Gremlin_(programming_language)" target="_blank" >Gremlin</a>
 - <a href="https://en.wikipedia.org/wiki/Gellish" target="_blank" >Gellish</a>
+- <a href="https://www.openehr.org/releases/QUERY/latest/docs/AQL/AQL.html" target="_blank" >openEHR Archetype Query Language</a>
