@@ -28,6 +28,8 @@ An esoteric programming language (sometimes shortened to esolang) is a programmi
   - <a href="https://en.wikipedia.org/wiki/LOLCODE" target="_blank" >LOLCODE</a>
 - M
   - <a href="https://en.wikipedia.org/wiki/Malbolge" target="_blank" >Malbolge</a>
+- O
+  - <a href="https://github.com/hundredrabbits/Orca" target="_blank" >Orca</a>
 - S
   - <a href="https://en.wikipedia.org/wiki/Shakespeare_Programming_Language" target="_blank" >Shakespeare Programming Language (SPL)</a>
 - T
