@@ -22,7 +22,7 @@ Query languages are computer languages used to make queries in databases and inf
 - <a href="https://en.wikipedia.org/wiki/F-logic" target="_blank" >F-logic (frame logic)</a>
 - <a href="https://en.wikipedia.org/wiki/ISBL" target="_blank" >ISBL (Information Systems Base Language)</a>
 - <a href="https://en.wikipedia.org/wiki/MultiDimensional_eXpressions" target="_blank" >Multidimensional Expressions (MDX)</a>
-- <a href="https://en.wikipedia.org/wiki/Couchbase_Server" target="_blank" >Couchbase Server (N1QL)</a>
+- <a href="https://en.wikipedia.org/wiki/Couchbase_Server" target="_blank" >Non-1st Query Language (N1QL)</a>
 - <a href="https://en.wikipedia.org/wiki/Object_Constraint_Language" target="_blank" >Object Constraint Language (OCL)</a>
 - <a href="https://en.wikipedia.org/wiki/Data_Mining_Extensions" target="_blank" >Data Mining Extensions (DMX)</a>
 - <a href="https://en.wikipedia.org/wiki/D_(data_language_specification)" target="_blank" >D (data language specification)</a>
@@ -32,3 +32,4 @@ Query languages are computer languages used to make queries in databases and inf
 - <a href="https://en.wikipedia.org/wiki/Gremlin_(programming_language)" target="_blank" >Gremlin</a>
 - <a href="https://en.wikipedia.org/wiki/Gellish" target="_blank" >Gellish</a>
 - <a href="https://www.openehr.org/releases/QUERY/latest/docs/AQL/AQL.html" target="_blank" >openEHR Archetype Query Language</a>
+- <a href="https://en.wikipedia.org/wiki/GraphQL" target="_blank" >GraphQL</a>
