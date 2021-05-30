@@ -18,12 +18,12 @@ List of programming language lists by type.
 - C
   - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Chinese%20programming%20languages.md" target="_blank">Chinese programming languages</a>
   - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/C-family%20programming%20languages.md" target="_blank">C-family programming languages</a>
+  - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Content%20Syndication.md" target="_blank">Content Syndication Markup Languages</a>
 - E
+  - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Embeddable%20Programming%20Languages.md" target="_blank">Embeddable Programming Languages</a>
   - <a href="https://github.com/AnanthaRajuC/List-of-programming-languages-by-type/blob/master/Experimental%20programming%20languages.md" target="_blank">Experimental programming languages</a>
   - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Esoteric%20programming%20language.md" target="_blank">Esoteric programming languages</a>
 - M
-  - Markup Languages
-    - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Content%20Syndication.md" target="_blank">Content Syndication</a>
     - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Markup%20Language%20(General%20Purpose).md" target="_blank">General Purpose</a>
 - N
   - <a href="https://github.com/AnanthaRajuC/List-of-programming-language-lists/blob/master/Non-English-based%20programming%20languages.md" target="_blank">Non-English-based programming languages</a>
