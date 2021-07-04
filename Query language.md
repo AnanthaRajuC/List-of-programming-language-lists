@@ -18,7 +18,7 @@ Query languages are computer languages used to make queries in databases and inf
 - <a href="https://en.wikipedia.org/wiki/Molecular_Query_Language" target="_blank" >Molecular Query Language (MQL)</a>
 - <a href="https://en.wikipedia.org/wiki/Language_Integrated_Query" target="_blank" >Language Integrated Query (LINQ)</a>
 - <a href="https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol" target="_blank" >Lightweight Directory Access Protocol (LDAP)</a>
-- <a href="https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol" target="_blank" >RDF query language (RDQL)</a>
+- <a href="https://en.wikipedia.org/wiki/RDF_query_language" target="_blank" >RDF query language (RDQL)</a>
 - <a href="https://en.wikipedia.org/wiki/F-logic" target="_blank" >F-logic (frame logic)</a>
 - <a href="https://en.wikipedia.org/wiki/ISBL" target="_blank" >ISBL (Information Systems Base Language)</a>
 - <a href="https://en.wikipedia.org/wiki/MultiDimensional_eXpressions" target="_blank" >Multidimensional Expressions (MDX)</a>
