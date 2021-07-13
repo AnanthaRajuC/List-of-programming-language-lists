@@ -17,5 +17,7 @@ Non-English-based programming languages are computer programming languages that,
   - <a href="https://code.google.com/archive/p/farsinet/" target="_blank" >farsinet - A .NET based farsi programming language</a>
   - <a href="https://en.wikipedia.org/wiki/Fj%C3%B6lnir_(programming_language)" target="_blank" >Fjölnir</a>
   - <a href="https://en.wikipedia.org/wiki/4th_Dimension_(software)" target="_blank" >4th Dimension</a>
+- P
+  - <a href="https://pt.wikipedia.org/wiki/Portugol" target="_blank" >Portugol</a>
 - Q
   - <a href="http://nas.sr/%D9%82%D9%84%D8%A8/" target="_blank" >Qalb (قلب)</a>
