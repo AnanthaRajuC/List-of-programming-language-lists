@@ -9,6 +9,7 @@ Non-English-based programming languages are computer programming languages that,
   - <a href="https://en.wikipedia.org/wiki/Dolittle_(programming_language)" target="_blank" >Dolittle</a>
   - <a href="https://en.wikipedia.org/wiki/DRAKON" target="_blank" >DRAKON</a>
   - <a href="https://github.com/dzintars-valoda/dzintars" target="_blank" >Dzintars (Ruby translated into Latvian)</a>
+  - <a href="https://en.wikipedia.org/wiki/Dolittle_(programming_language)" target="_blank" >Dolittle</a>  
 - E
   - <a href="https://en.wikipedia.org/wiki/Easy_Programming_Language" target="_blank" >Easy Programming Language</a>
   - <a href="https://en.wikipedia.org/wiki/Ebda3" target="_blank" >Ebda3</a>
@@ -17,6 +18,11 @@ Non-English-based programming languages are computer programming languages that,
   - <a href="https://code.google.com/archive/p/farsinet/" target="_blank" >farsinet - A .NET based farsi programming language</a>
   - <a href="https://en.wikipedia.org/wiki/Fj%C3%B6lnir_(programming_language)" target="_blank" >Fjölnir</a>
   - <a href="https://en.wikipedia.org/wiki/4th_Dimension_(software)" target="_blank" >4th Dimension</a>
+- K
+  - <a href="https://en.wikipedia.org/wiki/Karel_(programming_language)" target="_blank" >Karel</a>
+- L
+  - <a href="https://en.wikipedia.org/wiki/Linotte" target="_blank" >Linotte</a>
+  - <a href="https://en.wikipedia.org/wiki/LSE_(programming_language)" target="_blank" >LSE (Language Symbolique d'Enseignement)</a>
 - P
   - <a href="https://pt.wikipedia.org/wiki/Portugol" target="_blank" >Portugol</a>
 - Q
